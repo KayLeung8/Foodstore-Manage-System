@@ -1,0 +1,1 @@
+CREATE DATABASE food_store_manage_system;
